@@ -1,0 +1,262 @@
+For all layers at the   50-th step:
+
+For all layers at the  100-th step:
+
+For all layers at the  150-th step:
+
+For all layers at the  200-th step:
+
+For all layers at the  250-th step:
+
+For all layers at the  300-th step:
+
+For all layers at the  350-th step:
+
+For all layers at the  400-th step:
+
+For all layers at the  450-th step:
+
+For all layers at the  500-th step:
+
+For all layers at the  550-th step:
+
+For all layers at the  600-th step:
+
+For all layers at the  650-th step:
+
+For all layers at the  700-th step:
+
+For all layers at the  750-th step:
+
+For all layers at the  800-th step:
+
+For all layers at the  850-th step:
+
+For all layers at the  900-th step:
+
+For all layers at the  950-th step:
+
+For all layers at the 1000-th step:
+
+For all layers at the   50-th step:
+[0.407]
+For all layers at the  100-th step:
+[0.357]
+For all layers at the  150-th step:
+[0.338]
+For all layers at the   50-th step:
+[0.407]
+For all layers at the  100-th step:
+[0.357]
+For all layers at the  150-th step:
+[0.338]
+For all layers at the  200-th step:
+[0.357]
+For all layers at the  250-th step:
+[0.371]
+For all layers at the  300-th step:
+[0.338]
+For all layers at the  350-th step:
+[0.368]
+For all layers at the  400-th step:
+[0.383]
+For all layers at the  450-th step:
+[0.355]
+For all layers at the  500-th step:
+[0.36]
+For all layers at the  550-th step:
+[0.339]
+For all layers at the  600-th step:
+[0.352]
+For all layers at the  650-th step:
+[0.331]
+For all layers at the  700-th step:
+[0.359]
+For all layers at the  750-th step:
+[0.385]
+For all layers at the  800-th step:
+[0.375]
+For all layers at the  850-th step:
+[0.364]
+For all layers at the  900-th step:
+[0.392]
+For all layers at the  950-th step:
+[0.37]
+For all layers at the 1000-th step:
+[0.35]
+For all layers at the   50-th step:
+[0.407]
+For all layers at the  100-th step:
+[0.357]
+For all layers at the  150-th step:
+[0.338]
+For all layers at the  200-th step:
+[0.36]
+For all layers at the  250-th step:
+[0.355]
+For all layers at the  300-th step:
+[0.35]
+For all layers at the  350-th step:
+[0.365]
+For all layers at the  400-th step:
+[0.359]
+For all layers at the  450-th step:
+[0.373]
+For all layers at the  500-th step:
+[0.362]
+For all layers at the  550-th step:
+[0.355]
+For all layers at the  600-th step:
+[0.34]
+For all layers at the  650-th step:
+[0.363]
+For all layers at the  700-th step:
+[0.349]
+For all layers at the  750-th step:
+[0.37]
+For all layers at the  800-th step:
+[0.388]
+For all layers at the  850-th step:
+[0.359]
+For all layers at the  900-th step:
+[0.366]
+For all layers at the  950-th step:
+[0.331]
+For all layers at the 1000-th step:
+[0.354]
+For all layers at the   50-th step:
+[0.402]
+For all layers at the  100-th step:
+[0.41]
+For all layers at the  150-th step:
+[0.413]
+For all layers at the  200-th step:
+[0.375]
+For all layers at the   50-th step:
+[0.382]
+For all layers at the  100-th step:
+[0.356]
+For all layers at the  150-th step:
+[0.366]
+For all layers at the  200-th step:
+[0.355]
+For all layers at the  250-th step:
+[0.346]
+For all layers at the  300-th step:
+[0.327]
+For all layers at the  350-th step:
+[0.325]
+For all layers at the  400-th step:
+[0.339]
+For all layers at the  450-th step:
+[0.307]
+For all layers at the  500-th step:
+[0.327]
+For all layers at the  550-th step:
+[0.335]
+For all layers at the  600-th step:
+[0.364]
+For all layers at the  650-th step:
+[0.362]
+For all layers at the  700-th step:
+[0.31]
+For all layers at the  750-th step:
+[0.302]
+For all layers at the  800-th step:
+[0.324]
+For all layers at the  850-th step:
+[0.345]
+For all layers at the  900-th step:
+[0.362]
+For all layers at the  950-th step:
+[0.346]
+For all layers at the 1000-th step:
+[0.334]
+For all layers at the   50-th step:
+[-0.045]
+For all layers at the  100-th step:
+[-0.085]
+For all layers at the  150-th step:
+[-0.078]
+For all layers at the  200-th step:
+[-0.065]
+For all layers at the  250-th step:
+[-0.041]
+For all layers at the  300-th step:
+[-0.07]
+For all layers at the  350-th step:
+[-0.051]
+For all layers at the  400-th step:
+[-0.055]
+For all layers at the  450-th step:
+[-0.084]
+For all layers at the  500-th step:
+[-0.12]
+For all layers at the  550-th step:
+[-0.077]
+For all layers at the  600-th step:
+[-0.067]
+For all layers at the  650-th step:
+[-0.031]
+For all layers at the  700-th step:
+[-0.077]
+For all layers at the  750-th step:
+[-0.102]
+For all layers at the  800-th step:
+[-0.095]
+For all layers at the  850-th step:
+[-0.061]
+For all layers at the  900-th step:
+[-0.049]
+For all layers at the  950-th step:
+[-0.082]
+For all layers at the 1000-th step:
+[-0.084]
+For all layers at the   50-th step:
+[-0.527]
+For all layers at the  100-th step:
+[-1.021]
+For all layers at the  150-th step:
+[-1.078]
+For all layers at the  200-th step:
+[-1.067]
+For all layers at the  250-th step:
+[-1.14]
+For all layers at the  300-th step:
+[-1.107]
+For all layers at the  350-th step:
+[-1.043]
+For all layers at the  400-th step:
+[-1.13]
+For all layers at the  450-th step:
+[-1.084]
+For all layers at the  500-th step:
+[-1.064]
+For all layers at the  550-th step:
+[-1.11]
+For all layers at the  600-th step:
+[-1.059]
+For all layers at the  650-th step:
+[-1.106]
+For all layers at the  700-th step:
+[-1.084]
+For all layers at the  750-th step:
+[-1.085]
+For all layers at the  800-th step:
+[-1.053]
+For all layers at the  850-th step:
+[-1.062]
+For all layers at the  900-th step:
+[-1.087]
+For all layers at the  950-th step:
+[-1.087]
+For all layers at the 1000-th step:
+[-1.073]
+For all layers at the   50-th step:
+decoding_model_7/decoder__layer_7/decoder_check_normalized factor:0 [-0.114]
+For all layers at the  100-th step:
+decoding_model_7/decoder__layer_7/decoder_check_normalized factor:0 [-0.179]
+For all layers at the  150-th step:
+decoding_model_7/decoder__layer_7/decoder_check_normalized factor:0 [-0.245]
+For all layers at the  200-th step:
+decoding_model_7/decoder__layer_7/decoder_check_normalized factor:0 [-0.196]

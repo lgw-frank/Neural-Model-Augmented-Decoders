@@ -1,0 +1,12 @@
+model_checkpoint_path: "bch-ckpt-3000"
+all_model_checkpoint_paths: "bch-ckpt-2600"
+all_model_checkpoint_paths: "bch-ckpt-2700"
+all_model_checkpoint_paths: "bch-ckpt-2800"
+all_model_checkpoint_paths: "bch-ckpt-2900"
+all_model_checkpoint_paths: "bch-ckpt-3000"
+all_model_checkpoint_timestamps: 1759483093.4839883
+all_model_checkpoint_timestamps: 1759483095.0188298
+all_model_checkpoint_timestamps: 1759483096.6529615
+all_model_checkpoint_timestamps: 1759483098.356166
+all_model_checkpoint_timestamps: 1759483100.0107424
+last_preserved_timestamp: 1759482361.000858

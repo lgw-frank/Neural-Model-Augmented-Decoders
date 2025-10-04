@@ -1,0 +1,12 @@
+model_checkpoint_path: "bch-ckpt-200"
+all_model_checkpoint_paths: "bch-ckpt-160"
+all_model_checkpoint_paths: "bch-ckpt-170"
+all_model_checkpoint_paths: "bch-ckpt-180"
+all_model_checkpoint_paths: "bch-ckpt-190"
+all_model_checkpoint_paths: "bch-ckpt-200"
+all_model_checkpoint_timestamps: 1717153119.8753104
+all_model_checkpoint_timestamps: 1717153127.009383
+all_model_checkpoint_timestamps: 1717153133.5572257
+all_model_checkpoint_timestamps: 1717153140.1470912
+all_model_checkpoint_timestamps: 1717153146.796807
+last_preserved_timestamp: 1717153006.010671

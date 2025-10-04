@@ -1,0 +1,40 @@
+For all layers at   50-th step:
+decoder_check_normalizor [-1.5]
+For all layers at  100-th step:
+decoder_check_normalizor [-1.]
+For all layers at  150-th step:
+decoder_check_normalizor [-0.5]
+For all layers at  200-th step:
+decoder_check_normalizor [-9.03e-06]
+For all layers at  250-th step:
+decoder_check_normalizor [0.246]
+For all layers at  300-th step:
+decoder_check_normalizor [0.223]
+For all layers at  350-th step:
+decoder_check_normalizor [0.231]
+For all layers at  400-th step:
+decoder_check_normalizor [0.227]
+For all layers at  450-th step:
+decoder_check_normalizor [0.218]
+For all layers at  500-th step:
+decoder_check_normalizor [0.229]
+For all layers at  550-th step:
+decoder_check_normalizor [0.236]
+For all layers at  600-th step:
+decoder_check_normalizor [0.249]
+For all layers at  650-th step:
+decoder_check_normalizor [0.245]
+For all layers at  700-th step:
+decoder_check_normalizor [0.23]
+For all layers at  750-th step:
+decoder_check_normalizor [0.236]
+For all layers at  800-th step:
+decoder_check_normalizor [0.236]
+For all layers at  850-th step:
+decoder_check_normalizor [0.243]
+For all layers at  900-th step:
+decoder_check_normalizor [0.203]
+For all layers at  950-th step:
+decoder_check_normalizor [0.231]
+For all layers at 1000-th step:
+decoder_check_normalizor [0.229]

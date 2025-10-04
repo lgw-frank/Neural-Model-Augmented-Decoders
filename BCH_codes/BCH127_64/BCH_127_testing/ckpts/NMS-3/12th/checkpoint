@@ -1,0 +1,10 @@
+model_checkpoint_path: "bch-ckpt-40"
+all_model_checkpoint_paths: "bch-ckpt-10"
+all_model_checkpoint_paths: "bch-ckpt-20"
+all_model_checkpoint_paths: "bch-ckpt-30"
+all_model_checkpoint_paths: "bch-ckpt-40"
+all_model_checkpoint_timestamps: 1717152954.1934597
+all_model_checkpoint_timestamps: 1717152959.4645073
+all_model_checkpoint_timestamps: 1717152963.907256
+all_model_checkpoint_timestamps: 1717152968.137682
+last_preserved_timestamp: 1717152943.1465058

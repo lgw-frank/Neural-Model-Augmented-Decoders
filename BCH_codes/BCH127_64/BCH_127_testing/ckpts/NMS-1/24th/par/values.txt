@@ -1,0 +1,10 @@
+For all layers at the   50-th step:
+decoding_model_27/decoder__layer_27/decoder_check_normalized factor:0 [-0.009]
+For all layers at the  100-th step:
+decoding_model_27/decoder__layer_27/decoder_check_normalized factor:0 [-0.015]
+For all layers at the  150-th step:
+decoding_model_27/decoder__layer_27/decoder_check_normalized factor:0 [-0.071]
+For all layers at the  200-th step:
+decoding_model_27/decoder__layer_27/decoder_check_normalized factor:0 [-0.018]
+For all layers at the  250-th step:
+decoding_model_27/decoder__layer_27/decoder_check_normalized factor:0 [0.044]

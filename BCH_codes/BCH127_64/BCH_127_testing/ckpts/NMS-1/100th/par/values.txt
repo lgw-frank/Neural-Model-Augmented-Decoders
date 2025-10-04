@@ -1,0 +1,2 @@
+For all layers at the   50-th step:
+decoding_model_29/decoder__layer_29/decoder_check_normalized factor:0 [nan]

@@ -1,0 +1,8 @@
+For all layers at the 1050-th step:
+[1.385][-0.056]
+For all layers at the 1100-th step:
+[1.374][-0.088]
+For all layers at the 1150-th step:
+[1.376][-0.033]
+For all layers at the 1200-th step:
+[1.361][-0.076]

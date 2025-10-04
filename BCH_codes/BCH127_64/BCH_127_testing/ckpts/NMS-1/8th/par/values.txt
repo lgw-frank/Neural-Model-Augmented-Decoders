@@ -1,0 +1,190 @@
+For all layers at the   50-th step:
+
+For all layers at the  100-th step:
+
+For all layers at the  150-th step:
+
+For all layers at the  200-th step:
+
+For all layers at the  250-th step:
+
+For all layers at the  300-th step:
+
+For all layers at the  350-th step:
+
+For all layers at the  400-th step:
+
+For all layers at the  450-th step:
+
+For all layers at the  500-th step:
+
+For all layers at the  550-th step:
+
+For all layers at the  600-th step:
+
+For all layers at the  650-th step:
+
+For all layers at the  700-th step:
+
+For all layers at the  750-th step:
+
+For all layers at the  800-th step:
+
+For all layers at the  850-th step:
+
+For all layers at the  900-th step:
+
+For all layers at the  950-th step:
+
+For all layers at the 1000-th step:
+
+For all layers at the   50-th step:
+
+For all layers at the  100-th step:
+
+For all layers at the  150-th step:
+
+For all layers at the   50-th step:
+[-0.008]
+For all layers at the  100-th step:
+[-0.088]
+For all layers at the  150-th step:
+[-0.062]
+For all layers at the  200-th step:
+[-0.033]
+For all layers at the  250-th step:
+[-0.079]
+For all layers at the  300-th step:
+[-0.062]
+For all layers at the  350-th step:
+[-0.037]
+For all layers at the  400-th step:
+[-0.059]
+For all layers at the  450-th step:
+[-0.047]
+For all layers at the  500-th step:
+[-0.09]
+For all layers at the  550-th step:
+[-0.107]
+For all layers at the  600-th step:
+[-0.053]
+For all layers at the  650-th step:
+[-0.046]
+For all layers at the  700-th step:
+[-0.079]
+For all layers at the  750-th step:
+[-0.118]
+For all layers at the  800-th step:
+[-0.092]
+For all layers at the  850-th step:
+[-0.042]
+For all layers at the  900-th step:
+[-0.051]
+For all layers at the  950-th step:
+[-0.06]
+For all layers at the 1000-th step:
+[-0.064]
+For all layers at the  100-th step:
+decoder_check_normalized factor [-0.136]
+For all layers at the  200-th step:
+decoder_check_normalized factor [-0.145]
+For all layers at the  300-th step:
+decoder_check_normalized factor [-0.117]
+For all layers at the  400-th step:
+decoder_check_normalized factor [-0.148]
+For all layers at the  500-th step:
+decoder_check_normalized factor [-0.081]
+For all layers at the  600-th step:
+decoder_check_normalized factor [-0.103]
+For all layers at the  700-th step:
+decoder_check_normalized factor [-0.128]
+For all layers at the  800-th step:
+decoder_check_normalized factor [-0.164]
+For all layers at the  900-th step:
+decoder_check_normalized factor [-0.165]
+For all layers at the 1000-th step:
+decoder_check_normalized factor [-0.136]
+For all layers at the  100-th step:
+decoder_check_normalized factor [-0.19]
+For all layers at the  100-th step:
+decoder_check_normalized factor [-0.233]
+For all layers at the  100-th step:
+decoder_check_normalized factor [-0.236]
+For all layers at the  200-th step:
+decoder_check_normalized factor [-0.185]
+For all layers at the  300-th step:
+decoder_check_normalized factor [-0.146]
+For all layers at the  400-th step:
+decoder_check_normalized factor [-0.236]
+For all layers at the  500-th step:
+decoder_check_normalized factor [-0.199]
+For all layers at the  600-th step:
+decoder_check_normalized factor [-0.158]
+For all layers at the  700-th step:
+decoder_check_normalized factor [-0.229]
+For all layers at the  800-th step:
+decoder_check_normalized factor [-0.197]
+For all layers at the  900-th step:
+decoder_check_normalized factor [-0.228]
+For all layers at the 1000-th step:
+decoder_check_normalized factor [-0.212]
+For all layers at the 1100-th step:
+decoder_check_normalized factor [-0.241]
+For all layers at the 1200-th step:
+decoder_check_normalized factor [-0.239]
+For all layers at the 1300-th step:
+decoder_check_normalized factor [-0.239]
+For all layers at the 1400-th step:
+decoder_check_normalized factor [-0.244]
+For all layers at the 1500-th step:
+decoder_check_normalized factor [-0.262]
+For all layers at the 1600-th step:
+decoder_check_normalized factor [-0.228]
+For all layers at the 1700-th step:
+decoder_check_normalized factor [-0.264]
+For all layers at the 1800-th step:
+decoder_check_normalized factor [-0.248]
+For all layers at the 1900-th step:
+decoder_check_normalized factor [-0.164]
+For all layers at the 2000-th step:
+decoder_check_normalized factor [-0.211]
+For all layers at the  100-th step:
+decoder_check_normalized factor [-0.093]
+For all layers at the  200-th step:
+decoder_check_normalized factor [-0.025]
+For all layers at the  300-th step:
+decoder_check_normalized factor [0.014]
+For all layers at the  400-th step:
+decoder_check_normalized factor [-0.066]
+For all layers at the  500-th step:
+decoder_check_normalized factor [-0.096]
+For all layers at the  600-th step:
+decoder_check_normalized factor [0.005]
+For all layers at the  700-th step:
+decoder_check_normalized factor [-0.049]
+For all layers at the  800-th step:
+decoder_check_normalized factor [-0.042]
+For all layers at the  900-th step:
+decoder_check_normalized factor [-0.041]
+For all layers at the 1000-th step:
+decoder_check_normalized factor [-0.035]
+For all layers at the  100-th step:
+decoder_check_normalized factor [-0.29]
+For all layers at the  200-th step:
+decoder_check_normalized factor [-0.001]
+For all layers at the  100-th step:
+decoder_check_normalized factor [0.255]
+For all layers at the  200-th step:
+decoder_check_normalized factor [0.242]
+For all layers at the  100-th step:
+decoder_check_normalized factor [0.213]
+For all layers at the  200-th step:
+decoder_check_normalized factor [0.226]
+For all layers at the  100-th step:
+decoder_check_normalized factor [0.392]
+For all layers at the  200-th step:
+decoder_check_normalized factor [0.35]
+For all layers at the  100-th step:
+decoder_check_normalized factor [0.331]
+For all layers at the  200-th step:
+decoder_check_normalized factor [0.253]

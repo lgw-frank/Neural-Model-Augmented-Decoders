@@ -1,0 +1,170 @@
+For all layers at the   50-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.23]
+For all layers at the  100-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.342]
+For all layers at the  150-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.301]
+For all layers at the  200-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.343]
+For all layers at the  250-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.379]
+For all layers at the  300-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.362]
+For all layers at the  350-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.233]
+For all layers at the  400-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.193]
+For all layers at the  450-th step:
+decoding_model_8/decoder__layer_8/decoder_check_normalized factor:0 [-0.173]
+For all layers at the   50-th step:
+decoding_model_13/decoder__layer_13/decoder_check_normalized factor:0 [-0.046]
+For all layers at the  100-th step:
+decoding_model_13/decoder__layer_13/decoder_check_normalized factor:0 [-0.044]
+For all layers at the  150-th step:
+decoding_model_13/decoder__layer_13/decoder_check_normalized factor:0 [-0.045]
+For all layers at the  200-th step:
+decoding_model_13/decoder__layer_13/decoder_check_normalized factor:0 [-0.054]
+For all layers at the   50-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.073]
+For all layers at the  100-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.058]
+For all layers at the  150-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.016]
+For all layers at the  200-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.126]
+For all layers at the  250-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.133]
+For all layers at the  300-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.083]
+For all layers at the  350-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.108]
+For all layers at the  400-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.239]
+For all layers at the  450-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.241]
+For all layers at the  500-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.244]
+For all layers at the  550-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.247]
+For all layers at the  600-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.317]
+For all layers at the  650-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.382]
+For all layers at the  700-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.474]
+For all layers at the  750-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.529]
+For all layers at the  800-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.542]
+For all layers at the  850-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.524]
+For all layers at the  900-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.492]
+For all layers at the  950-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.489]
+For all layers at the 1000-th step:
+decoding_model_15/decoder__layer_15/decoder_check_normalized factor:0 [-0.486]
+For all layers at the   50-th step:
+decoding_model_24/decoder__layer_24/decoder_check_normalized factor:0 [-0.324]
+For all layers at the  100-th step:
+decoding_model_24/decoder__layer_24/decoder_check_normalized factor:0 [-0.389]
+For all layers at the   50-th step:
+decoding_model_25/decoder__layer_25/decoder_check_normalized factor:0 [-0.23]
+For all layers at the  100-th step:
+decoding_model_25/decoder__layer_25/decoder_check_normalized factor:0 [-0.342]
+For all layers at the  150-th step:
+decoding_model_25/decoder__layer_25/decoder_check_normalized factor:0 [-0.301]
+For all layers at the  200-th step:
+decoding_model_25/decoder__layer_25/decoder_check_normalized factor:0 [-0.343]
+For all layers at the  250-th step:
+decoding_model_25/decoder__layer_25/decoder_check_normalized factor:0 [-0.379]
+For all layers at the   50-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.115]
+For all layers at the  100-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [0.019]
+For all layers at the  150-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [0.005]
+For all layers at the  200-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.034]
+For all layers at the  250-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.144]
+For all layers at the  300-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.089]
+For all layers at the  350-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.04]
+For all layers at the  400-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.088]
+For all layers at the  450-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.122]
+For all layers at the  500-th step:
+decoding_model_26/decoder__layer_26/decoder_check_normalized factor:0 [-0.214]
+For all layers at the   50-th step:
+decoding_model_30/decoder__layer_30/decoder_check_normalized factor:0 [-0.115]
+For all layers at the   50-th step:
+decoding_model_34/decoder__layer_34/decoder_check_normalized factor:0 [-0.069]
+For all layers at the  100-th step:
+decoding_model_34/decoder__layer_34/decoder_check_normalized factor:0 [-0.133]
+For all layers at the  150-th step:
+decoding_model_34/decoder__layer_34/decoder_check_normalized factor:0 [-0.316]
+For all layers at the  200-th step:
+decoding_model_34/decoder__layer_34/decoder_check_normalized factor:0 [-0.391]
+For all layers at the  250-th step:
+decoding_model_34/decoder__layer_34/decoder_check_normalized factor:0 [-0.485]
+For all layers at the   50-th step:
+decoding_model_37/decoder__layer_37/decoder_check_normalized factor:0 [0.011]
+For all layers at the  100-th step:
+decoding_model_37/decoder__layer_37/decoder_check_normalized factor:0 [-0.101]
+For all layers at the  150-th step:
+decoding_model_37/decoder__layer_37/decoder_check_normalized factor:0 [-0.026]
+For all layers at the  200-th step:
+decoding_model_37/decoder__layer_37/decoder_check_normalized factor:0 [-0.009]
+For all layers at the  250-th step:
+decoding_model_37/decoder__layer_37/decoder_check_normalized factor:0 [-0.1]
+For all layers at the  300-th step:
+decoding_model_50/decoder__layer_50/decoder_check_normalized factor:0 [-0.116]
+For all layers at the   50-th step:
+decoding_model_4/decoder__layer_4/decoder_check_normalized factor:0 [-0.073]
+For all layers at the  100-th step:
+decoding_model_4/decoder__layer_4/decoder_check_normalized factor:0 [-0.058]
+For all layers at the  150-th step:
+decoding_model_4/decoder__layer_4/decoder_check_normalized factor:0 [-0.016]
+For all layers at the  200-th step:
+decoding_model_4/decoder__layer_4/decoder_check_normalized factor:0 [-0.126]
+For all layers at the  250-th step:
+decoding_model_4/decoder__layer_4/decoder_check_normalized factor:0 [-0.133]
+For all layers at the  300-th step:
+decoding_model_4/decoder__layer_4/decoder_check_normalized factor:0 [-0.083]
+For all layers at the   50-th step:
+decoding_model_2/decoder__layer_2/decoder_check_normalized factor:0 [-0.125]
+For all layers at the  100-th step:
+decoding_model_2/decoder__layer_2/decoder_check_normalized factor:0 [-0.092]
+For all layers at the  150-th step:
+decoding_model_2/decoder__layer_2/decoder_check_normalized factor:0 [0.012]
+For all layers at the  200-th step:
+decoding_model_2/decoder__layer_2/decoder_check_normalized factor:0 [-0.077]
+For all layers at the  250-th step:
+decoding_model_2/decoder__layer_2/decoder_check_normalized factor:0 [-0.092]
+For all layers at the  300-th step:
+decoding_model_2/decoder__layer_2/decoder_check_normalized factor:0 [-0.108]
+For all layers at the   50-th step:
+decoding_model_3/decoder__layer_3/decoder_check_normalized factor:0 [-0.066]
+For all layers at the  100-th step:
+decoding_model_3/decoder__layer_3/decoder_check_normalized factor:0 [-0.13]
+For all layers at the  150-th step:
+decoding_model_3/decoder__layer_3/decoder_check_normalized factor:0 [-0.125]
+For all layers at the  200-th step:
+decoding_model_3/decoder__layer_3/decoder_check_normalized factor:0 [-0.011]
+For all layers at the  250-th step:
+decoding_model_3/decoder__layer_3/decoder_check_normalized factor:0 [-0.05]
+For all layers at the  300-th step:
+decoding_model_3/decoder__layer_3/decoder_check_normalized factor:0 [-0.031]
+For all layers at the   50-th step:
+decoding_model_6/decoder__layer_6/decoder_check_normalized factor:0 [-0.126]
+For all layers at the  100-th step:
+decoding_model_6/decoder__layer_6/decoder_check_normalized factor:0 [-0.086]
+For all layers at the  150-th step:
+decoding_model_6/decoder__layer_6/decoder_check_normalized factor:0 [-0.106]
+For all layers at the  200-th step:
+decoding_model_6/decoder__layer_6/decoder_check_normalized factor:0 [-0.196]
+For all layers at the   50-th step:
+decoding_model_7/decoder__layer_7/decoder_check_normalized factor:0 [-0.126]

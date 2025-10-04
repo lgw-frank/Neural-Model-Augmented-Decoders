@@ -1,0 +1,12 @@
+
+For Summery of 3.0-3.0dBdB:
+dist_samples:Counter({0.6126554: 14318, 2.7191567: 3226})
+dist_labels:Counter({0.0: 14318, 1.0: 3226})
+S:17523 F1:17 F2:4
+Success rate:0.9988 FR1:0.0010 FR2:0.0002
+
+For Summery of 3.0-3.0dBdB:
+dist_samples:Counter({0.6126554: 14318, 2.7191567: 3226})
+dist_labels:Counter({0.0: 14318, 1.0: 3226})
+S:17524 F1:13 F2:7
+Success rate:0.9989 FR1:0.0007 FR2:0.0004

@@ -1,0 +1,4 @@
+For all layers at the  100-th step:
+decoder_check_normalized factor [0.304]
+For all layers at the  200-th step:
+decoder_check_normalized factor [0.296]

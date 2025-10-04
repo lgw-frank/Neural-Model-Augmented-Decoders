@@ -1,0 +1,8 @@
+For all layers at the   50-th step:
+decoding_model_19/decoder__layer_19/decoder_bit_normalized factor1:0 [-0.179]decoding_model_19/decoder__layer_19/decoder_bit_normalized factor2:0 [0.452]decoding_model_19/decoder__layer_19/decoder_check_normalized factor:0 [-0.045]
+For all layers at the  100-th step:
+decoding_model_19/decoder__layer_19/decoder_bit_normalized factor1:0 [0.012]decoding_model_19/decoder__layer_19/decoder_bit_normalized factor2:0 [0.952]decoding_model_19/decoder__layer_19/decoder_check_normalized factor:0 [-0.129]
+For all layers at the  150-th step:
+decoding_model_19/decoder__layer_19/decoder_bit_normalized factor1:0 [0.078]decoding_model_19/decoder__layer_19/decoder_bit_normalized factor2:0 [1.452]decoding_model_19/decoder__layer_19/decoder_check_normalized factor:0 [-0.151]
+For all layers at the  200-th step:
+decoding_model_19/decoder__layer_19/decoder_bit_normalized factor1:0 [0.004]decoding_model_19/decoder__layer_19/decoder_bit_normalized factor2:0 [1.952]decoding_model_19/decoder__layer_19/decoder_check_normalized factor:0 [-0.128]
