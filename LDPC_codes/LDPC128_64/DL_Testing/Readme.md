@@ -65,7 +65,7 @@ def global_setting(argv):
          
     #store it onto global space
     set_map('print_interval',100)
-    set_map('record_interval',100)    # Print results and save model every interval
+    set_map('record_interval',100)    # Print and save results every interval
     
     set_map('soft_margin',0.5)       # early termination threshold for SWA model
     set_map('win_width',5)           #ensure consistency with `DL_Training` package

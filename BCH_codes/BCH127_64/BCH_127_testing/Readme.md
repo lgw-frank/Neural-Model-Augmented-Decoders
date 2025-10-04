@@ -28,7 +28,7 @@ sys.argv = "python <min_snr> <max_snr> <num_points> <batch_size> <num_batches> <
 * **max_snr**: Maximum SNR value in dB (e.g., `4.5`)
 * **num_points**: Number of SNR points evenly distributed between min_snr and max_snr (e.g., `6`)
 * **batch_size**: Number of samples per batch (e.g., `100`)
-* **num_batches**: Total number of batches to generate (e.g., `100`)
+* **num_batches**: Total number of batches to process (e.g., `100`)
 * **max_iterations**: Number of iterations for NMS (e.g., `8`; larger values yield limited FER gain)
 * **parity_check_matrix_file**: BCH parity-check matrix file (e.g., `BCH_127_64_10_strip.alist`)
 * **decoder_type**: One of the BP variants (e.g., `NMS-1` refers to the conventional NMS with a single parameter to evaluate)

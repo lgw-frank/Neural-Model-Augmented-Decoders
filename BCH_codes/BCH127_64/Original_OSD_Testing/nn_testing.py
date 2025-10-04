@@ -136,7 +136,7 @@ def generate_binary_sequences(n, p):
     return np.array(sequences)      
 
 def Testing_pro_bits(snr,selected_ds):
-    start_time = time.process_time()
+    start_time = time.time()
     code = GL.get_map('code_parameters')
     maximum_order = GL.get_map('maximum_order')
     osd_instance = OSD_mod.osd(code)
@@ -156,19 +156,18 @@ def Testing_pro_bits(snr,selected_ds):
         actual_size += labels.shape[0]
         sum_list = osd_instance.convention_osd_preprocess(inputs, labels,sum_list)
         if (i+1)%10 == 0:
-            pass
-            #average_sorted_mean = tf.reduce_sum(sum_list[0],axis=0)/actual_size
-            #print(f'\nFor {snr:.1f}dB maximum_order:{maximum_order}')
-            #print(f'--> mean:{average_sorted_mean}')      
-            #T2 =time.process_time()
-            #print(f'Running time:{T2 - start_time} seconds with mean time {(T2 - start_time)/actual_size:.4f}!')
+            average_sorted_mean = tf.reduce_sum(sum_list[0],axis=0)/actual_size
+            print(f'\nFor {snr:.1f}dB maximum_order:{maximum_order}')
+            print(f'--> mean:{average_sorted_mean}')      
+            T2 =time.time()
+            print(f'Running time:{T2 - start_time} seconds with mean time {(T2 - start_time)/actual_size:.4f}!')
     average_sorted_mean = tf.reduce_sum(sum_list[0],axis=0)/actual_size
     average_swapped_mean = tf.reduce_sum(sum_list[1],axis=0)/actual_size
     mean_list = [average_sorted_mean,average_swapped_mean]
     return mean_list
     
 def Testing_OSD(snr,selected_ds):
-    start_time = time.process_time()
+    start_time = time.time()
     code = GL.get_map('code_parameters')
     maximum_order = GL.get_map('maximum_order')
     osd_instance = OSD_mod.osd(code) 
@@ -202,11 +201,11 @@ def Testing_OSD(snr,selected_ds):
             average_sorted_mean = tf.reduce_sum(sum_list[0],axis=0)/actual_size
             print(f'\nFor {snr:.1f}dB maximum_order:{maximum_order}')
             print(f'--> S/F:{correct_sum} /{fail_sum} Avr TEPs:{average_size} mean:{average_sorted_mean}')      
-            T2 =time.process_time()
+            T2 =time.time()
             print(f'Running time:{T2 - start_time} seconds with mean time {(T2 - start_time)/actual_size:.4f}!')
         if i == num_counter-1 or fail_sum >= GL.get_map('termination_threshold'):
             break
-    T2 =time.process_time()
+    T2 =time.time()
     FER = round(fail_sum/actual_size,5)  
     average_size = round(complexity_sum/actual_size,4)
     average_sorted_mean = tf.reduce_sum(sum_list[0],axis=0)/actual_size

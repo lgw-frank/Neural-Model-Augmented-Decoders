@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-import time
-T1 = time.process_time()
 import numpy as np
 #np.set_printoptions(threshold=np.inf)
 np.set_printoptions(precision=5)

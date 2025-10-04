@@ -1,0 +1,16 @@
+For all layers at   50-th step:
+decoder_check_normalizor:0 [-2.395]
+For all layers at  100-th step:
+decoder_check_normalizor:0 [-2.627]
+For all layers at  150-th step:
+decoder_check_normalizor:0 [-2.662]
+For all layers at  200-th step:
+decoder_check_normalizor:0 [-2.621]
+For all layers at  250-th step:
+decoder_check_normalizor:0 [-2.709]
+For all layers at  260-th step:
+decoder_check_normalizor:0 [-2.725]
+For all layers at  280-th step:
+decoder_check_normalizor:0 [-2.742]
+For all layers at  300-th step:
+decoder_check_normalizor:0 [-2.741]

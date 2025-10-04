@@ -63,7 +63,7 @@ def global_setting(argv):
 
     #store it onto global space
     set_map('print_interval',20)
-    set_map('record_interval',20)    # Print results and save model every interval
+    set_map('record_interval',20)    # Print and save results every interval
     set_map('ordering_option',4)     # choose one option among the options of training, convention, ALMT, macro_conv, macro_ALMT, optimized_conv, optimized_ALMT.
               
     set_map('soft_margin',0.5)       # early termination threshold for SWA model

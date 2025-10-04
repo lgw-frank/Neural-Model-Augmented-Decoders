@@ -6,7 +6,7 @@ Created on Sat Jan 18 22:47:53 2025
 """
 # -*- coding: utf-8 -*-
 import time
-T1 = time.process_time()
+T1 = time.time()
 import numpy as np
 np.set_printoptions(precision=3)
 #import matplotlib
@@ -113,5 +113,5 @@ for sorted_order in ordering_list:
 #timestamp = datetime.now().strftime("%Y%m%d_%H%M") 
 Opt_path.drawing_plot(snr_lo,data_counter_list,draw_low_limit,save_path=f"./figs/train_ror_intercept{intercept_length}-relax{relax_factor}{suffix}{ending}_{snr_lo}dB.png")
     
-T2 =time.process_time()
+T2 =time.time()
 print('Running time:%s seconds!'%(T2 - T1))

@@ -1,0 +1,6 @@
+
+For Summery of 3.5-3.5dBdB:
+dist_samples:Counter({0.6123428: 14389, 2.7253325: 3233})
+dist_labels:Counter({0.0: 14389, 1.0: 3233})
+S:17298 F1:291 F2:33
+Success rate:0.9816 FR1:0.0165 FR2:0.0019

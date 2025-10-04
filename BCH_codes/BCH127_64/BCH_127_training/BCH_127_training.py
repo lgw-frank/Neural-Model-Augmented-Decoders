@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import time
-T1 = time.process_time()
+T1 = time.time()
 import numpy as np
 np.set_printoptions(precision=3)
 #import matplotlib
@@ -31,5 +31,5 @@ if  original_NMS_indicator:
     #instance of Model creation   
     NMS_model = Training_module.training_stage(restore_info,original_NMS_indicator) 
     Training_module.post_process_input(NMS_model,original_NMS_indicator)
-T2 =time.process_time()
+T2 =time.time()
 print('Running time:%s seconds!'%(T2 - T1))

@@ -128,7 +128,7 @@ def generate_teps(osd,residual_path):
     return error_pattern_list,acc_block_size       
 
 def Testing_OSD(OSD_instance, snr, selected_ds, model_list, logistics):
-    start_time = time.process_time()
+    start_time = time.time()
     DIA_model, SWA_model = model_list
     _, decoding_matrix, log_filename = logistics
     
@@ -230,14 +230,14 @@ def _report_progress(snr, counters, config, start_time):
     
     print('avr CE per itr:\n' + ' '.join(f'{x:.3f}' for x in avg_loss))
     print('BER: ' + ' '.join(f'{x:.3f}' for x in avg_ber))
-    print(f'Running time:{time.process_time() - start_time} seconds '
-          f'with mean time {(time.process_time() - start_time)/counters["actual_size"]:.4f}!')
+    print(f'Running time:{time.time() - start_time} seconds '
+          f'with mean time {(time.time() - start_time)/counters["actual_size"]:.4f}!')
 
 
 def _final_report(snr, counters, config, start_time, log_filename):
     """Helper method for final reporting and log writing."""
     display_param = _get_display_parameters(config)
-    T2 = time.process_time()
+    T2 = time.time()
     FER = round(counters['fail'] / counters['actual_size'], 5)
     avg_size = round(counters['complexity'] / counters['actual_size'], 4)
     wins_size = round(counters['windows'] / counters['actual_size'], 4)

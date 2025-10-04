@@ -1,0 +1,12 @@
+model_checkpoint_path: "rs-ckpt-3000"
+all_model_checkpoint_paths: "rs-ckpt-2600"
+all_model_checkpoint_paths: "rs-ckpt-2700"
+all_model_checkpoint_paths: "rs-ckpt-2800"
+all_model_checkpoint_paths: "rs-ckpt-2900"
+all_model_checkpoint_paths: "rs-ckpt-3000"
+all_model_checkpoint_timestamps: 1759509595.9251359
+all_model_checkpoint_timestamps: 1759509597.3336306
+all_model_checkpoint_timestamps: 1759509598.6807082
+all_model_checkpoint_timestamps: 1759509600.1163576
+all_model_checkpoint_timestamps: 1759509601.5929356
+last_preserved_timestamp: 1759509557.6074235

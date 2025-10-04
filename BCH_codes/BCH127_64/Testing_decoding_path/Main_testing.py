@@ -6,7 +6,7 @@ Created on Sat Jan 18 22:47:53 2025
 """
 # -*- coding: utf-8 -*-
 import time
-T1 = time.process_time()
+T1 = time.time()
 import numpy as np
 np.set_printoptions(precision=3)
 #import matplotlib
@@ -38,7 +38,7 @@ os.makedirs("./figs", exist_ok=True) #outputed figures location
 log_dir = './log/'
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
-
+    
 intercept_length = GL.get_map('intercept_length')
 relax_factor = GL.get_map('relax_factor')
 
@@ -57,6 +57,8 @@ with open(output_order_file,'rb') as f:
     full_teps_ordering_list = pickle.load(f)
 
 total_teps_list = [full_teps_ordering_list[i][:intercept_length] for i in range(len(full_teps_ordering_list))]
+if not os.path.exists('./ckpts'):
+    os.makedirs('./ckpts')
 output_saved_data_points = f'./ckpts/varied_snrs_data{suffix}{ending}'
 DIA_model = NN_struct.conv_bitwise()
 if GL.get_map('DIA_deployment'):
@@ -101,5 +103,5 @@ for i in range(len(snr_list)):
         f.write(f'SNR {snr:.2f}dB{ending}:\n')
         f.write(f'avr_sum:{avr_ranks}\n')
 
-T2 =time.process_time()
+T2 =time.time()
 print('Running time:%s seconds!'%(T2 - T1))

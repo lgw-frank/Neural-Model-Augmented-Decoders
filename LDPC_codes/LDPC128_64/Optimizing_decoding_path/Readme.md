@@ -29,7 +29,7 @@ sys.argv = "python <min_snr> <max_snr> <batch_size> <num_batches> <max_iteration
 * **min_snr**: Minimum SNR value in dB (e.g., `3.0`)
 * **max_snr**: Maximum SNR value in dB (e.g., `3.0`)
 * **batch_size**: Number of samples per batch (e.g., `100`)
-* **num_batches**: Total number of batches to generate (e.g., `100`)
+* **num_batches**: Total number of batches to process (e.g., `100`)
 * **max_iterations**: Number of iterations for NMS (e.g., `10`)
 * **parity_check_matrix_file**: LDPC parity-check matrix file (e.g., `CCSDS_ldpc_n128_k64.alist`)
 * **decoder_type**: One of the BP variants (e.g., `NMS-1` refers to the conventional NMS with a single evaluation parameter)

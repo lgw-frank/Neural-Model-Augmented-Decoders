@@ -1,0 +1,12 @@
+model_checkpoint_path: "rs-ckpt-300"
+all_model_checkpoint_paths: "rs-ckpt-200"
+all_model_checkpoint_paths: "rs-ckpt-250"
+all_model_checkpoint_paths: "rs-ckpt-260"
+all_model_checkpoint_paths: "rs-ckpt-280"
+all_model_checkpoint_paths: "rs-ckpt-300"
+all_model_checkpoint_timestamps: 1759505442.3874917
+all_model_checkpoint_timestamps: 1759505520.9570794
+all_model_checkpoint_timestamps: 1759505600.2777162
+all_model_checkpoint_timestamps: 1759505629.902436
+all_model_checkpoint_timestamps: 1759505660.8096306
+last_preserved_timestamp: 1759505125.1998622

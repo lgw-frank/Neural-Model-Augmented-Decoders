@@ -40,12 +40,13 @@ def global_setting(argv):
     #filling parity check matrix info
     H_filename = get_map('H_filename')
     code = Fill_matrix.Code(H_filename)
+    #store it onto global space
+    set_map('code_parameters', code)  
     
     set_map('termination_threshold',10)
     set_map('maximum_order',1)     
     
-    #store it onto global space
-    set_map('code_parameters', code)
+
     set_map('print_interval',100)
     set_map('record_interval',100)  
 

@@ -5,7 +5,7 @@ Created on Wed Mar  1 16:09:34 2023
 @author: zidonghua_30
 """
 import time
-T1 = time.process_time()
+T1 = time.time()
 import sys
 import globalmap as GL
 import nn_testing as NN_test
@@ -38,5 +38,5 @@ else:
 print(f'Summary of FER under {sub_title}:\n{FER_list} ')
 with open(log_filename,'a+') as f:
   f.write(f'\nSummary of FER under {sub_title}:\n{FER_list}')
-T2 =time.process_time()
+T2 =time.time()
 print('Running time:%s seconds!'%(T2 - T1))

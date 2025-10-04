@@ -1,0 +1,205 @@
+
+For 2.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:41 F:43
+
+FER:0.5119--> S/F:41/43 Avr TEPs:857.1429 Wins:4.5714
+avr CE per itr:
+54.915 54.930 54.903 53.887 52.933 51.504 49.576 48.274 52.575 23.988
+BER: 0.059 0.060 0.060 0.060 0.060 0.061 0.061 0.063 0.064 0.059
+Running time:3.234375 seconds with mean time 0.0385!
+
+For 2.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:60 F:15
+
+FER:0.2--> S/F:60/15 Avr TEPs:753.3333 Wins:3.5333
+avr CE per itr:
+54.346 54.271 53.991 53.337 52.711 52.111 50.241 48.173 46.839 20.613
+BER: 0.050 0.051 0.052 0.052 0.051 0.052 0.054 0.054 0.055 0.050
+Running time:2.78125 seconds with mean time 0.0371!
+
+For 3.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:55 F:4
+
+FER:0.0678--> S/F:55/4 Avr TEPs:593.2203 Wins:1.9322
+avr CE per itr:
+53.694 53.612 52.811 52.355 50.461 48.542 45.770 45.880 51.297 17.456
+BER: 0.047 0.047 0.048 0.049 0.048 0.048 0.050 0.050 0.050 0.047
+Running time:1.828125 seconds with mean time 0.0310!
+
+For 3.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:29 F:2
+
+FER:0.06452--> S/F:29/2 Avr TEPs:564.5161 Wins:1.6452
+avr CE per itr:
+54.273 54.086 53.965 52.493 52.224 51.134 49.891 48.662 48.787 17.168
+BER: 0.044 0.045 0.046 0.045 0.044 0.044 0.043 0.045 0.045 0.044
+Running time:0.9375 seconds with mean time 0.0302!
+
+For 2.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:41 F:43
+
+FER:0.5119--> S/F:41/43 Avr TEPs:857.1429 Wins:4.5714
+avr CE per itr:
+54.915 54.930 54.903 53.887 52.933 51.504 49.576 48.274 52.575 23.988
+BER: 0.059 0.060 0.060 0.060 0.060 0.061 0.061 0.063 0.064 0.059
+Running time:3.109375 seconds with mean time 0.0370!
+
+For 2.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:60 F:15
+
+FER:0.2--> S/F:60/15 Avr TEPs:753.3333 Wins:3.5333
+avr CE per itr:
+54.346 54.271 53.991 53.337 52.711 52.111 50.241 48.173 46.839 20.613
+BER: 0.050 0.051 0.052 0.052 0.051 0.052 0.054 0.054 0.055 0.050
+Running time:2.484375 seconds with mean time 0.0331!
+
+For 3.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:55 F:4
+
+FER:0.0678--> S/F:55/4 Avr TEPs:593.2203 Wins:1.9322
+avr CE per itr:
+53.694 53.612 52.811 52.355 50.461 48.542 45.770 45.880 51.297 17.456
+BER: 0.047 0.047 0.048 0.049 0.048 0.048 0.050 0.050 0.050 0.047
+Running time:1.6875 seconds with mean time 0.0286!
+
+For 3.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:29 F:2
+
+FER:0.06452--> S/F:29/2 Avr TEPs:564.5161 Wins:1.6452
+avr CE per itr:
+54.273 54.086 53.965 52.493 52.224 51.134 49.891 48.662 48.787 17.168
+BER: 0.044 0.045 0.046 0.045 0.044 0.044 0.043 0.045 0.045 0.044
+Running time:0.875 seconds with mean time 0.0282!
+
+For 4.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:26 F:0
+
+FER:0.0--> S/F:26/0 Avr TEPs:500.0 Wins:1.0
+avr CE per itr:
+54.041 53.473 52.538 50.425 48.966 46.311 47.125 54.500 93.008 14.520
+BER: 0.039 0.040 0.041 0.042 0.042 0.042 0.043 0.041 0.042 0.039
+Running time:0.796875 seconds with mean time 0.0306!
+
+For 4.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:20 F:0
+
+FER:0.0--> S/F:20/0 Avr TEPs:525.0 Wins:1.25
+avr CE per itr:
+53.247 53.071 52.717 51.172 48.789 47.060 50.484 72.849 159.513 14.058
+BER: 0.035 0.037 0.036 0.039 0.040 0.040 0.040 0.039 0.041 0.035
+Running time:0.59375 seconds with mean time 0.0297!
+
+Summary of FER under soft_margin=0.5:
+[(2.0, 0.5119), (2.5, 0.2), (3.0, 0.0678), (3.5, 0.06452), (4.0, 0.0), (4.5, 0.0)]
+For 2.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:41 F:43
+
+FER:0.5119--> S/F:41/43 Avr TEPs:857.1429 Wins:4.5714
+avr CE per itr:
+54.915 54.930 54.903 53.887 52.933 51.504 49.576 48.274 52.575 23.988
+BER: 0.059 0.060 0.060 0.060 0.060 0.061 0.061 0.063 0.064 0.059
+Running time:3.328125 seconds with mean time 0.0396!
+
+For 2.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:60 F:15
+
+FER:0.2--> S/F:60/15 Avr TEPs:753.3333 Wins:3.5333
+avr CE per itr:
+54.346 54.271 53.991 53.337 52.711 52.111 50.241 48.173 46.839 20.613
+BER: 0.050 0.051 0.052 0.052 0.051 0.052 0.054 0.054 0.055 0.050
+Running time:2.5625 seconds with mean time 0.0342!
+
+For 3.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:55 F:4
+
+FER:0.0678--> S/F:55/4 Avr TEPs:593.2203 Wins:1.9322
+avr CE per itr:
+53.694 53.612 52.811 52.355 50.461 48.542 45.770 45.880 51.297 17.456
+BER: 0.047 0.047 0.048 0.049 0.048 0.048 0.050 0.050 0.050 0.047
+Running time:1.71875 seconds with mean time 0.0291!
+
+For 3.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:29 F:2
+
+FER:0.06452--> S/F:29/2 Avr TEPs:564.5161 Wins:1.6452
+avr CE per itr:
+54.273 54.086 53.965 52.493 52.224 51.134 49.891 48.662 48.787 17.168
+BER: 0.044 0.045 0.046 0.045 0.044 0.044 0.043 0.045 0.045 0.044
+Running time:0.921875 seconds with mean time 0.0297!
+
+For 4.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:26 F:0
+
+FER:0.0--> S/F:26/0 Avr TEPs:500.0 Wins:1.0
+avr CE per itr:
+54.041 53.473 52.538 50.425 48.966 46.311 47.125 54.500 93.008 14.520
+BER: 0.039 0.040 0.041 0.042 0.042 0.042 0.043 0.041 0.042 0.039
+Running time:0.71875 seconds with mean time 0.0276!
+
+For 4.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:20 F:0
+
+FER:0.0--> S/F:20/0 Avr TEPs:525.0 Wins:1.25
+avr CE per itr:
+53.247 53.071 52.717 51.172 48.789 47.060 50.484 72.849 159.513 14.058
+BER: 0.035 0.037 0.036 0.039 0.040 0.040 0.040 0.039 0.041 0.035
+Running time:0.578125 seconds with mean time 0.0289!
+
+Summary of FER under soft_margin=0.5:
+[(2.0, 0.5119), (2.5, 0.2), (3.0, 0.0678), (3.5, 0.06452), (4.0, 0.0), (4.5, 0.0)]
+For 2.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:41 F:43
+
+FER:0.5119--> S/F:41/43 Avr TEPs:857.1429 Wins:4.5714
+avr CE per itr:
+54.915 54.930 54.903 53.887 52.933 51.504 49.576 48.274 52.575 23.988
+BER: 0.059 0.060 0.060 0.060 0.060 0.061 0.061 0.063 0.064 0.059
+Running time:3.1430346965789795 seconds with mean time 0.0374!
+
+For 2.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:60 F:15
+
+FER:0.2--> S/F:60/15 Avr TEPs:753.3333 Wins:3.5333
+avr CE per itr:
+54.346 54.271 53.991 53.337 52.711 52.111 50.241 48.173 46.839 20.613
+BER: 0.050 0.051 0.052 0.052 0.051 0.052 0.054 0.054 0.055 0.050
+Running time:2.7008800506591797 seconds with mean time 0.0360!
+
+For 3.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:55 F:4
+
+FER:0.0678--> S/F:55/4 Avr TEPs:593.2203 Wins:1.9322
+avr CE per itr:
+53.694 53.612 52.811 52.355 50.461 48.542 45.770 45.880 51.297 17.456
+BER: 0.047 0.047 0.048 0.049 0.048 0.048 0.050 0.050 0.050 0.047
+Running time:1.7611634731292725 seconds with mean time 0.0299!
+
+For 3.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:29 F:2
+
+FER:0.06452--> S/F:29/2 Avr TEPs:564.5161 Wins:1.6452
+avr CE per itr:
+54.273 54.086 53.965 52.493 52.224 51.134 49.891 48.662 48.787 17.168
+BER: 0.044 0.045 0.046 0.045 0.044 0.044 0.043 0.045 0.045 0.044
+Running time:0.9222056865692139 seconds with mean time 0.0297!
+
+For 4.0dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:26 F:0
+
+FER:0.0--> S/F:26/0 Avr TEPs:500.0 Wins:1.0
+avr CE per itr:
+54.041 53.473 52.538 50.425 48.966 46.311 47.125 54.500 93.008 14.520
+BER: 0.039 0.040 0.041 0.042 0.042 0.042 0.043 0.041 0.042 0.039
+Running time:0.6966607570648193 seconds with mean time 0.0268!
+
+For 4.5dB intercept:1000 block:100 under soft_margin:0.5:
+----> S:20 F:0
+
+FER:0.0--> S/F:20/0 Avr TEPs:525.0 Wins:1.25
+avr CE per itr:
+53.247 53.071 52.717 51.172 48.789 47.060 50.484 72.849 159.513 14.058
+BER: 0.035 0.037 0.036 0.039 0.040 0.040 0.040 0.039 0.041 0.035
+Running time:0.5831396579742432 seconds with mean time 0.0292!
+
+Summary of FER under soft_margin=0.5:
+[(2.0, 0.5119), (2.5, 0.2), (3.0, 0.0678), (3.5, 0.06452), (4.0, 0.0), (4.5, 0.0)]
